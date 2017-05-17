@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:medium');
+
+body {
+    background-color: white;
+}
+
+.headerdiv {
+    width: 100%;
+    height: 20%;
+    background-color: gold;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    font-size: 14px;
+}
