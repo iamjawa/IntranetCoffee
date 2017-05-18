@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:medium');
+
+body {
+    background-color: gold;
+    margin: 0;
+}
+
+.headerdiv {
+    min-height: 200px;
+    height: 20vw;
+    background-color: gold;
+    text-align: center;
+}
+
+.maintitle {
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    text-align: center;
+    padding-top: 8vw;
+    font-size: 3rem;
+    margin-bottom: 4vw;
+}
+
+.coffeepicture {
+    max-width: 80%;
+    max-height: 500px;
+}
